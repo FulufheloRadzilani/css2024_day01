@@ -1,2 +1,3 @@
 # css2024_day01
-welcom to the coding school
+welcome to the coding school
+1. Excel to Python
